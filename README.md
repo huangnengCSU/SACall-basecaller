@@ -13,5 +13,5 @@ command parameters
 
 #### Installation
 * python3  
-* pytorch v1.0.1    
+* pytorch_gpu v1.0.1    
 * ctcdecode: https://github.com/parlance/ctcdecode.git
